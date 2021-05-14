@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-import-csv-file-to-mysql",
+  "version": "1.0.0",
+  "description": "Node.js Import CSV File to MySQL - using CSV Fast-CSV",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "CSV",
+    "File",
+    "Fast-CSV"
+  ],
+  "author": "grokonez.com",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "mysql": "^2.16.0"
+  }
+}
